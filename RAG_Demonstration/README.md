@@ -1,4 +1,4 @@
-# My New Folder
+# Introduction
 
 This folder contains files related to my project on using RAG to work with Documents. 
 
